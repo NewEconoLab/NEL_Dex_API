@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEL_Dex_API", "NEL_Dex_API\NEL_Dex_API.csproj", "{70591337-710B-4136-85A4-3296C165E333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70591337-710B-4136-85A4-3296C165E333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70591337-710B-4136-85A4-3296C165E333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70591337-710B-4136-85A4-3296C165E333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70591337-710B-4136-85A4-3296C165E333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D90194-C3E9-4814-B4B0-87F615FB6597}
+	EndGlobalSection
+EndGlobal
